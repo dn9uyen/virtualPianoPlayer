@@ -1,3 +1,3 @@
 # autoType
-Direct input auto typer
-Main purpose is to play virtual piano
+-Direct input auto typer
+- The main purpose is to simulate various keystrokes
