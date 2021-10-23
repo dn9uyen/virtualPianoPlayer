@@ -1,2 +1,2 @@
 # Virtual Piano Player
-- Plays songs on the virtual piano
+- Weekend project that plays songs on the virtual piano
